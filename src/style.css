@@ -18,7 +18,7 @@ img {
   display: none;
 }
 .loader {
-  margin: 0 auto;
+  position: absolute;
   font-size: 10px;
   width: 1em;
   height: 1em;
