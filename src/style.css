@@ -12,10 +12,8 @@ img {
   max-height: 30%;
   height: auto;
 }
-.cat-info {
-  display: flex;
-  align-items: flex-start;
-  gap: 40px;
+.breed-select {
+  font-size: 15px;
 }
 .error {
   display: none;
