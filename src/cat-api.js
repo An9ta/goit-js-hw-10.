@@ -1,4 +1,7 @@
 import axios from 'axios';
+//axios.defaults.headers.common["x-api-key"] = "твой ключ";
+const api_key =
+  'live_XkapSigYWcD78BGLteD6ebO6NnLe1TjQNZRy7kKiKIIfBayI2rT2fpMMNmWyuHQR';
 export default axios;
 
 const urlBreeds = `https://api.thecatapi.com/v1/breeds`;
